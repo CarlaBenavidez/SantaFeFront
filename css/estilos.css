@@ -1,5 +1,12 @@
 body {background-color: #F9EBEA}
 
+header{background-color:#E6B0AA;width: 1300px}
+
+nav {background-color: #C0392B; width: 1300px; height: 60px;}
+
+
+aside {background-color: #E6B0AA;width: 1300px; height: 550px;}
+
 .carlito{height: 10}
 
 
@@ -9,3 +16,9 @@ body {background-color: #F9EBEA}
                       .UNO{color: #C0392B;font-family:courier;text-decoration: underline}
                       .lista1{font-family:courier}
                       .lista2{font-family:courier}
+
+.iconowa {width:75px;
+position: fixed;
+bottom: 10px;
+right: 15px;
+}
