@@ -6,15 +6,14 @@ nav {background-color: #C0392B; width: 1000px; height: 60px;text-align: center;f
 
 aside {background-color: #E6B0AA;width: 1000px; height: 550px;}
 
-.carlito{height: 5}
-
+.carlito{height: 10}
 
 .rojoletra{color: #C0392B;text-align: center ;font-size:300%; font-family:courier;text-decoration: underline;>
                       <div>}
 .tres{font-family:courier;}
                       .UNO{color: #C0392B;font-family:courier;text-decoration: underline}
-                      .lista1{font-family:courier}
-                      .lista2{font-family:courier}
+                      .lista1{font-family:courier}></center>
+                      .lista2{font-family:courier}></center>
 
 .iconowa {width:75px;
 position: fixed;
