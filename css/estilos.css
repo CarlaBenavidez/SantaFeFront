@@ -1,10 +1,10 @@
 body {background-color: #F9EBEA}
 
-header{background-color:#E6B0AA;}
+header{background-color:#E6B0AA;width: 1000px}
 
-nav {background-color: #C0392B; width: 1300px; height: 60px;text-align: center;font-size: 100%}
+nav {background-color: #C0392B; width: 1000px; height: 60px;text-align: center;font-size: 100%}
 
-aside {background-color: #E6B0AA;}
+aside {background-color: #E6B0AA;width: 1000px; height: 550px;}
 
 .carlito{height: 10}
 
