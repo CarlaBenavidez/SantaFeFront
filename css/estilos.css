@@ -17,7 +17,7 @@ header{background-color:#E6B0AA;
     width: 100px;
     margin: 10px;}
 
-.iconflex {
+.iconFlex {
         display: flex;
         justify-content: space-around;
         justify-content: center;
