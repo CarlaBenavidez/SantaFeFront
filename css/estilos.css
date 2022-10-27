@@ -9,7 +9,7 @@ header{background-color:#E6B0AA;
     color: #C0392B;
     text-decoration: underline;
     font-family:courier;
-    font-size: 10px;
+    font-size: 15px;
     text-align: center
 }
 
@@ -98,13 +98,13 @@ width: 50%}
   .videito2  {  display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    border-radius: 10px
+    border-radius: 10px; width: 48px;
     }
 
 .imagencarlito       {  display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  width: 45%;}
+  width: 48%;}
 
 .iconowa {width:75px;
 position: fixed;
