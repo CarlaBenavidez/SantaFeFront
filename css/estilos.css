@@ -6,11 +6,7 @@ header{background-color:#E6B0AA;
     justify-content: center;
     justify-content: space-around;
     align-items: center;
-    color: #C0392B;
-    text-decoration: underline;
-    font-family:courier;
-    font-size: 50%;
-    text-align: center
+
 }
 
 .logo {height: 10%;
@@ -22,6 +18,9 @@ header{background-color:#E6B0AA;
         justify-content: space-around;
         justify-content: center;
         background-color: #F9EBEA;
+        height: 10%;
+            width: 30%;
+            margin: 1%;
 
     }
 
@@ -68,7 +67,12 @@ aside {background-color: #E6B0AA;}
 
 .carlito{height: 10}
 
-.rojoletra{color: #C0392B;text-align: center ;font-size:200%; font-family:courier;text-decoration: underline}
+.rojoletra{color: #C0392B;text-align: center ;font-size:4em ; font-family:courier;text-decoration: underline; height: 10%;
+    width: 30%;
+    margin: 10%;}
+
+
+
 
 
 .tres{font-family:courier;    display: flex;
