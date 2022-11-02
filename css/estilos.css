@@ -9,7 +9,7 @@ header{background-color:#E6B0AA;
     color: #C0392B;
     text-decoration: underline;
     font-family:courier;
-    font-size: 50px;
+    font-size: 10vh;
     text-align: center
 }
 
@@ -26,8 +26,8 @@ header{background-color:#E6B0AA;
     }
 
 .icon {
-        height: 50px;
-        width: 50px;
+        height: 10vh;
+        width: 10vh;
         margin: 5px;}
 
 nav {background-color: #C0392B;
@@ -38,13 +38,13 @@ nav:hover {background-color: white;}
 display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
-    margin: 20px;
+    margin: 2vh;
   }
 
 section {display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
-    margin: 20px;
+    margin: 2vh;
   }
 
   a {
@@ -66,7 +66,7 @@ justify-content: space-around;
 
 aside {background-color: #E6B0AA;}
 
-.carlito{height: 10}
+.carlito{height: 10vh}
 
 .rojoletra{color: #C0392B;text-align: center ;font-size:200%; font-family:courier;text-decoration: underline}
 
@@ -81,9 +81,6 @@ aside {background-color: #E6B0AA;}
                       .lista2{font-family:courier}
 
 
-.TODOS{display: flex;justify-content: space-around;
-flex-wrap: wrap; justify-content: center;
-width: 50%}
 
 .videito  {  display: flex;
   justify-content: space-around;
@@ -114,5 +111,4 @@ footer {
     align-items: center;
     background-color: #E6B0AA;
     color: black;
-    height: 200px;
     width: 100%;}
