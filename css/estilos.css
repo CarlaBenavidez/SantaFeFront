@@ -3,7 +3,6 @@ body {background-color: #F9EBEA}
 header{background-color:#E6B0AA;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     justify-content: space-around;
     align-items: center;
     color: #C0392B;
