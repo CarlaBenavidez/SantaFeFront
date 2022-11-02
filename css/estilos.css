@@ -49,7 +49,7 @@ justify-content: space-around;
 .videos {display: flex;
 flex-wrap: wrap;
 justify-content: center;
-    margin: 2vh;
+  
   }
 
 section {display: flex;
