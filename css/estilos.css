@@ -6,21 +6,22 @@ header{background-color:#E6B0AA;
     justify-content: center;
     justify-content: space-around;
     align-items: center;
-
+    color: #C0392B;
+    text-decoration: underline;
+    font-family:courier;
+    font-size: 50px;
+    text-align: center
 }
 
-.logo {height: 10%;
-    width: 10%;
-    margin: 1%;}
+.logo {height: 100px;
+    width: 100px;
+    margin: 10px;}
 
 .iconFlex {
         display: flex;
         justify-content: space-around;
         justify-content: center;
         background-color: #F9EBEA;
-        height: 10%;
-            width: 30%;
-            margin: 1%;
 
     }
 
@@ -67,12 +68,7 @@ aside {background-color: #E6B0AA;}
 
 .carlito{height: 10}
 
-.rojoletra{color: #C0392B;text-align: center ;font-size:4em ; font-family:courier;text-decoration: underline; height: 10%;
-    width: 30%;
-    margin: 10%;}
-
-
-
+.rojoletra{color: #C0392B;text-align: center ;font-size:200%; font-family:courier;text-decoration: underline}
 
 
 .tres{font-family:courier;    display: flex;
@@ -85,6 +81,10 @@ aside {background-color: #E6B0AA;}
                       .lista2{font-family:courier}
 
 
+.TODOS{display: flex;justify-content: space-around;
+flex-wrap: wrap; justify-content: center;
+width: 50%}
+
 .videito  {  display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -93,7 +93,7 @@ aside {background-color: #E6B0AA;}
   .videito2  {  display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    border-radius: 1%; width: 48%;
+    border-radius: 10px; width: 48px;
     }
 
 .imagencarlito       {  display: flex;
