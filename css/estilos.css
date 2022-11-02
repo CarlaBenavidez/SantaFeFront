@@ -9,13 +9,13 @@ header{background-color:#E6B0AA;
     color: #C0392B;
     text-decoration: underline;
     font-family:courier;
-    font-size: 50px;
+    font-size: 50%;
     text-align: center
 }
 
-.logo {height: 100px;
-    width: 100px;
-    margin: 10px;}
+.logo {height: 10%;
+    width: 10%;
+    margin: 1%;}
 
 .iconFlex {
         display: flex;
@@ -31,17 +31,8 @@ header{background-color:#E6B0AA;
         margin: 5px;}
 
 nav {background-color: #C0392B;
-   height: 100%;
-   font-size: 100%;
-   display: flex;
-   flex-wrap: wrap;
-justify-content: space-around;
-   color: #C0392B;
-   text-decoration: underline;
-   font-family:courier;
-
-
- }
+}
+nav:hover {background-color: white;}
 
 .flex_item {
 display: flex;
@@ -54,19 +45,23 @@ section {display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
     margin: 20px;
-  }}
+  }
+
+  a {
+      color: #000000;
+      text-decoration: none;
+  }
+
+  a:hover {
+           color:red;
+  }
 
 
-
-nav:hover {
-          background-color: white;
-}
 .divFlex {
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
-    height: 100%;
-    font-size: 100%;
+    flex-wrap: nowrap;
+
 }
 
 aside {background-color: #E6B0AA;}
@@ -86,10 +81,6 @@ aside {background-color: #E6B0AA;}
                       .lista2{font-family:courier}
 
 
-.TODOS{display: flex;justify-content: space-around;
-flex-wrap: wrap; justify-content: center;
-width: 50%}
-
 .videito  {  display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -98,7 +89,7 @@ width: 50%}
   .videito2  {  display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    border-radius: 10px; width: 48px;
+    border-radius: 1%; width: 48%;
     }
 
 .imagencarlito       {  display: flex;
