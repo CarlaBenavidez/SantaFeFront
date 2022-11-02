@@ -111,6 +111,10 @@ bottom: 10px;
 right: 15px;
 }
 
+.contenedor {font-family:cour}
+.contenedor2 {font-family:cour; color: black;text-align: center ;font-size:200%;background-color: white;
+}
+
 footer {
     display: flex;
     flex-wrap: wrap;
