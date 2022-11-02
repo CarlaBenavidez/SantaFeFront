@@ -9,7 +9,7 @@ header{background-color:#E6B0AA;
     color: #C0392B;
     text-decoration: underline;
     font-family:courier;
-    font-size: 10vh;
+    font-size: 7vh;
     text-align: center
 }
 
@@ -26,9 +26,9 @@ header{background-color:#E6B0AA;
     }
 
 .icon {
-        height: 10vh;
-        width: 10vh;
-        margin: 5px;}
+        height: 7vh;
+        width: 7vh;
+        margin: 3px;}
 
 nav {background-color: #C0392B;
 }
