@@ -47,7 +47,7 @@ justify-content: space-around;
   }
 
 .videos {display: flex;
-flex-wrap: nowrap;
+flex-wrap: wrap;
 justify-content: center;
     margin: 2vh;
   }
