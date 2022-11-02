@@ -1,5 +1,13 @@
 body {background-color: #F9EBEA}
 
+@font-face {
+  font-family: "cour";
+  src:url("../fuentes/cour.ttf")
+  format("truetype");
+}
+
+
+
 header{background-color:#E6B0AA;
     display: flex;
     flex-wrap: wrap;
@@ -67,17 +75,17 @@ padding: 2%
 
 .carlito{height: 10vh}
 
-.rojoletra{color: #C0392B;text-align: center ;font-size:200%; font-family:courier;text-decoration: underline}
+.rojoletra{color: #C0392B;text-align: center ;font-size:200%; font-family:cour;text-decoration: underline}
 
 
-.tres{font-family:courier;    display: flex;
+.tres{font-family:cour;    display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     height: 100%;
     font-size: 110%;}
-                      .UNO{color: #C0392B;text-align: center;font-family:courier;text-decoration: underline;}
-                      .lista1{font-family:courier;}
-                      .lista2{font-family:courier}
+                      .UNO{color: #C0392B;text-align: center;font-family:cour;text-decoration: underline;}
+                      .lista1{font-family:cour;}
+                      .lista2{font-family:cour}
 
 
 
