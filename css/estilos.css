@@ -1,5 +1,3 @@
-body {background-color: #F9EBEA}
-
 @font-face {
   font-family: "cour";
   src:url("../fuentes/cour.ttf")
@@ -7,6 +5,7 @@ body {background-color: #F9EBEA}
 }
 
 
+body {background-color: #F9EBEA}
 
 header{background-color:#E6B0AA;
     display: flex;
@@ -14,7 +13,7 @@ header{background-color:#E6B0AA;
     justify-content: space-around;
     align-items: center;
 
-    
+
   }
 
 .logo {height: 100px;
@@ -25,8 +24,9 @@ header{background-color:#E6B0AA;
         display: flex;
         justify-content: space-around;
         justify-content: center;
-         background-color: #E6B0AA;
+        background-color: #E6B0AA;
         padding: 2%
+
 
     }
 
@@ -43,6 +43,12 @@ nav:hover {background-color: white;}
 display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
+    margin: 2vh;
+  }
+
+.videos {display: flex;
+flex-wrap: nowrap;
+justify-content: center;
     margin: 2vh;
   }
 
@@ -75,7 +81,7 @@ padding: 2%
 
 .carlito{height: 10vh}
 
-.rojoletra{color: #C0392B;text-align: center ;font-size:200%; font-family:cour;text-decoration: underline}
+.rojoletra{color: #C0392B;text-align: center ;font-size:10vh; font-family:cour ;text-decoration: underline;fon}
 
 
 .tres{font-family:cour;    display: flex;
@@ -85,7 +91,7 @@ padding: 2%
     font-size: 110%;}
                       .UNO{color: #C0392B;text-align: center;font-family:cour;text-decoration: underline;}
                       .lista1{font-family:cour;}
-                      .lista2{font-family:cour}
+                      .lista2{font-family:cour;}
 
 
 
