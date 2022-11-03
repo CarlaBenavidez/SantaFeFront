@@ -76,7 +76,7 @@ justify-content: space-around;
 }
 
 aside {background-color: #E6B0AA;
-padding: 2%
+padding: 2%; width: 100%;}
 }
 
 .carlito{height: 10vh}
