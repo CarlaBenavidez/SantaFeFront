@@ -150,6 +150,8 @@ margin: 1vh;
 background-image: linear-gradient(135deg, #E6B0AA  0%, #C0392B 100%);
 border-color:white;text-align: center; border-color:white;}
 
+.card-title {color:white;}
+
 
    @media (max-width: 700px) {
      body {
