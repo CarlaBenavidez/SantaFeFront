@@ -132,6 +132,24 @@ width: 100%}
 
 .IMAGEN {height: 10vh}
 
+.btn.btn-primary {
+    margin-top: 0.5rem;}
+
+.btn-primary {
+        color: black;
+        background-color: white;
+        border-color: white;
+        --bs-btn-hover-color: white;
+--bs-btn-hover-bg: black;
+--bs-btn-hover-border-color: black;
+    }
+
+
+.card {background-color: #C0392B;
+margin: 1vh;
+background-image: linear-gradient(135deg, #E6B0AA  0%, #C0392B 100%);
+border-color:white;}
+
 
    @media (max-width: 700px) {
      body {
