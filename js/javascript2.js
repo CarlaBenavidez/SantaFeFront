@@ -1,5 +1,4 @@
 
-
 function DatosDeLaCreadora() {
     alert("Carla Benavidez.")
 }
@@ -13,7 +12,10 @@ document.getElementById("aside").style.backgroundColor="black"
 document.getElementById("foot").style.backgroundColor="black"
 document.getElementById("head").style.backgroundColor="black"
 document.getElementById("nav").style.backgroundColor="white"
-
+    document.getElementById("rojoletra").style.color="white"
+    document.getElementById("UNO").style.color="white"
+        document.getElementById("CINCO").style.color="white"
+      
 
     }
 
@@ -26,6 +28,9 @@ document.getElementById("nav").style.backgroundColor="white"
     document.getElementById("foot").style.backgroundColor="#E6B0AA"
     document.getElementById("head").style.backgroundColor="#E6B0AA"
     document.getElementById("nav").style.backgroundColor="#C0392B"
+    document.getElementById("rojoletra").style.color="#C0392B"
+    document.getElementById("UNO").style.color="#C0392B"
+        document.getElementById("CINCO").style.color="#C0392B"
 
 
         }
