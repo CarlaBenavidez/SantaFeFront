@@ -1,4 +1,4 @@
-
+alert("¿Queres conocer la receta??")
 
 function DatosDeLaCreadora() {
     alert("Carla Benavidez.")
